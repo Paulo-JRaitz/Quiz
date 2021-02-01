@@ -1,0 +1,95 @@
+{
+  "bg": "https://wallpaperaccess.com/full/433527.jpg",
+  "title": "Quiz Universo",
+  "description": "Teste os seus conhecimentos sobre o Universo e vamos ver o quanto você conhece",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/l3q2Xl2Rd8wZfMCaI/giphy-downsized.gif",
+      "title": "Quais são os três tipos de galáxias ?",
+      "description": "Essa é pra aquecer",
+      "answer": 1,
+      "alternatives": [
+        "Espiral, Irregular e Encaixotada",
+        "Elíptica, Espiral e Irregular",
+        "Esferica, Espiral e Elíptica",
+        "Encaixotada, Elíptica e Irregular"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/107KlThVAe0M0w/giphy-downsized.gif",
+      "title": "Qual é o planeta mais próximo do sol ?",
+      "description": "Lembrar de passar um protetor solar",
+      "answer": 2,
+      "alternatives": [
+        "Marte",
+        "Venus",
+        "Mercúrio",
+        "Terra"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/tGUJr7N765suQ/giphy-downsized.gif",
+      "title": "Qual é o planeta mais quente do sistema solar ?",
+      "description": "Bem quente hem",
+      "answer": 0,
+      "alternatives": [
+        "Venus",
+        "Rio de Janeiro (brinks)",
+        "Mercúrio",
+        "Jupter"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/FMeMqqNECWhos/giphy-downsized.gif",
+      "title": "Qual é a segunda estrela mais próxima da terra ?",
+      "description": "Sera que é longe isso ?!",
+      "answer": 1,
+      "alternatives": [
+        "Sol",
+        "Proxima Centauri",
+        "Uy Scuti",
+        "Estrela de Barnard"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy-downsized.gif",
+      "title": "Qual é a galaxia mais próxima da via láctea ?",
+      "description": "Shun de ...... (Entendedores Entenderão)",
+      "answer": 0,
+      "alternatives": [
+        "Andrômeda",
+        "Cata Vento",
+        "Cartwheel"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/YmiVOwLxy16Ss/giphy.gif",
+      "title": "Que cor é do nascer e por do sol em marte ?",
+      "description": "Oo",
+      "answer": 3,
+      "alternatives": [
+        "Verde",
+        "Igual ao da terra",
+        "Amarelo",
+        "Azul"
+      ]
+    }
+  ],
+
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-coffee.leonardot07.vercel.app/"
+  ],
+  
+  "theme": {
+    "colors": {
+      "primary": "#482880",
+      "secondary": "#ff9100",
+      "mainBg": "#424242",
+      "contrastText": "#FFFFFF",
+      "wrong": "#ff3d00",
+      "success": "#27632a"
+    },
+    "borderRadius": "4px"
+  }
+}
